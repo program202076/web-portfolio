@@ -1,5 +1,8 @@
 body{
     margin: 0px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
 }
 h1{
     font-size: 50px;
@@ -40,7 +43,7 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url(images/dream-bg.png);
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -52,7 +55,7 @@ section{
 
 }
 .Experience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
